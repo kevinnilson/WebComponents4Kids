@@ -2,7 +2,7 @@
 
 * [Overview](overview.md)
 * [Web Basics](web_basics.md)
-* Web Components
+* [Web Components](web_components.md)
 * Polymer
 * Polymer Starter Kit
 
