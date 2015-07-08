@@ -5,7 +5,7 @@
 * [Web Basics](web_basics.md)
    * [HTML](html.md)
    * [CSS](css.md)
-   * JavaScript
+   * [JavaScript](javascript.md)
 * [Web Components](web_components.md)
 * [Polymer](polymer.md)
 * [Polymer Starter Kit](polymer_starter_kit.md)
