@@ -2,6 +2,6 @@
 
 * Overview
 * Web Basics
-* Web Component Basics
+* Web Components
 * Polymer
 
