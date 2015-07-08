@@ -1,8 +1,9 @@
 # Summary
 
+* [Introduction](README.md)
 * [Overview](overview.md)
 * [Web Basics](web_basics.md)
-   * HTML
+   * [HTML](html.md)
    * CSS
    * JavaScript
 * [Web Components](web_components.md)
