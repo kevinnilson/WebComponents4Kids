@@ -4,7 +4,7 @@
 * [Overview](overview.md)
 * [Web Basics](web_basics.md)
    * [HTML](html.md)
-   * CSS
+   * [CSS](css.md)
    * JavaScript
 * [Web Components](web_components.md)
 * [Polymer](polymer.md)
