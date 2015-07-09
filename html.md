@@ -25,6 +25,9 @@ HTML marks the content up into different structural types, like paragraphs, list
 [try on plunker](http://plnkr.co/edit/rwtHAvL6VV7VVV0r9tmK?p=preview)
 
 
+HTML pages have 2 parts (head & body).  Body is where the content of your page goes.
+
+
 
 ---
 ### Learning More
