@@ -5,9 +5,9 @@ This workshop is designed to teach you some of the basics of Web Components.  Yo
 *In this workshop kids will even get a chance to learn new and future things about the web that their parents probably don't know.*
 
 
-![](images/webcomponentslogo.png)
-![](images/polymerlogo.png)
-![](images/devoxx4kidslogo.png)
+![Web Components Logo](images/webcomponentslogo.png)
+![Polymer Logo](images/polymerlogo.png)
+![Devoxx4Kids Logo](images/devoxx4kidslogo.png)
 
 
 
