@@ -5,6 +5,12 @@ This workshop is designed to teach you some of the basics of Web Components.  Yo
 *In this workshop kids will even get a chance to learn new and future things about the web that their parents probably don't know.*
 
 
+
+---
+
+
+This workshop has been prepared by:
+
 Kevin Nilson [@javaclimber](https://twitter.com/javaclimber)
 
 Andy Nilson [@andynilson](https://twitter.com/andy_nilson)
