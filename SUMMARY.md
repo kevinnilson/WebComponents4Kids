@@ -14,5 +14,4 @@
 * [Resources](resources.md)
    * [Installation Guide](installation_guide.md)
    * [Additional References](additional_references..md)
-   * Setting Up Environment
 
