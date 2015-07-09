@@ -4,6 +4,13 @@ This workshop is designed to teach you some of the basics of Web Components.  Yo
 
 *In this workshop kids will even get a chance to learn new and future things about the web that their parents probably don't know.*
 
+
 Kevin Nilson [@javaclimber](https://twitter.com/javaclimber)
 
 Andy Nilson [@andynilson](https://twitter.com/andy_nilson)
+
+This workshop will be ran at:
+[OSCON Kids Day](http://www.oscon.com/open-source-2015/public/schedule/detail/43598)
+[Java One Devoxx4Kids](https://www.oracle.com/javaone)
+[Devoxx4Kids Bay Area](http://www.meetup.com/Devoxx4Kids-BayArea/)
+
