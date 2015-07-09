@@ -5,18 +5,19 @@ HTML marks the content up into different structural types, like paragraphs, list
 
 
 
-```
+```html
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+  <head>
+    <title>Simple Webpage</title>
+  </head>
 
-</body>
+  <body>
+    <h1>Learning HTML</h1>
+    <p>HTML is fun!</p>
+  </body>
+
 </html>
 ```
 
