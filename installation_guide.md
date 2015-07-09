@@ -1,6 +1,9 @@
 # Installation Guide
 
-Software
+
+## Software
+
+
 * Download and install Chrome from
 https://www.google.com/intl/en/chrome/browser/desktop/index.html
 
@@ -19,16 +22,22 @@ https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/
 https://git-scm.com/download/win
 
 * Make a local git repo of Polymer Starter Kit so instructor can easily see what has changed
-```cd UNZIP_LOCTION/polymer-starter-kit-light-1.0.2
+
+```
+cd UNZIP_LOCTION/polymer-starter-kit-light-1.0.2
 git init
 git add *
-git commit -m “initial commit”```
+git commit -m "initial commit"
+```
  
 
 
 
 
-Verification
+
+## Verification
+
+
 * Launch Chrome Dev Editor
 
 * Click the hamburger button (button with 3 lines on top left)
