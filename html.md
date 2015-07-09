@@ -1,6 +1,8 @@
 
 # HTML
 
+![](images/html5logo.png)
+
 HTML marks the content up into different structural types, like paragraphs, lists, images, tables, etc.  HTML stands for **H**yper **T**ext **M**arkup **L**anguage.
 
 
