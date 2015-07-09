@@ -31,11 +31,20 @@ The above CSS will make your page's background red, the heading will be green an
 
 
 
-## TODO
+## Ways to Insert CSS
 * External style sheet
 * Internal style sheet
 * Inline style
 
+*TODO add code and plunker*
+ 
+
+## CSS Selectors
+* element
+* id
+* class
+
+*TODO add code and plunker*
 
 
 
