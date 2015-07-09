@@ -15,11 +15,30 @@ https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/
 
 * Unzip polymer-starter-kit-light-1.0.2.zip
 
+* Download and install Git from
+https://git-scm.com/download/win
+
+* Make a local git repo of Polymer Starter Kit so instructor can easily see what has changed
+```cd UNZIP_LOCTION/polymer-starter-kit-light-1.0.2
+git init
+git add *
+git commit -m “initial commit”```
+ 
+
+
+
+
 Verification
 * Launch Chrome Dev Editor
+
 * Click the hamburger button (button with 3 lines on top left)
+
 * Click open folder and select 
+
 * UNZIP_LOCTION/polymer-starter-kit-light-1.0.2/app
+
 * You should see menu of files on left including index.html and others
+
 * Click the index.html file and it should load on right
+
 * Click play button (browser should launch showing starter kit webpage)
