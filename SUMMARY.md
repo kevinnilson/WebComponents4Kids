@@ -12,5 +12,5 @@
 * [Build Your Own Website with Polymer Starter Kit](build_your_own_website_with_polymer_starter_kit.md)
 * [Resources](resources.md)
    * Setup Instructions
-   * Additional Resources
+   * [Additional Resources](additional_resources.md)
 
