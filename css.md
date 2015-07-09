@@ -1,6 +1,6 @@
 # CSS
 
-CSS tells the browser how each type of HTML element should be displayed (color, size, font).
+CSS tells the browser how each type of HTML element should be displayed (color, size, font).  CSS stands for Cascading Style Sheets.
 
 
 
@@ -31,7 +31,11 @@ The above CSS will make your page's background red, the heading will be green an
 
 
 
-## Three ways
+## TODO
+* External style sheet
+* Internal style sheet
+* Inline style
+
 
 
 
