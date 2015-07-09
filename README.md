@@ -7,10 +7,16 @@ This workshop is designed to teach you some of the basics of Web Components.  Yo
 
 <!--
 todo make images local and same size
--->
+
 ![](http://webcomponents.org/img/logo.svg)
 ![](https://www.polymer-project.org/images/logos/lockup.svg)
 ![](http://www.devoxx4kids.org/wp-content/uploads/2014/01/DevoxxWithoutBrackets_PNG_1000px.png)
+-->
+
+
+![](images/webcomponentslogo.svg)
+![](images/polymerlogo.svg)
+![](images/devoxx4kidslogo.png)
 
 
 
