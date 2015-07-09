@@ -6,7 +6,7 @@
    * [HTML](html.md)
    * [CSS](css.md)
    * [JavaScript](javascript.md)
-   * Common HTML Tags
+   * [Common HTML Tags](common_html_tags.md)
 * [Web Components](web_components.md)
 * [Polymer](polymer.md)
 * [Polymer Starter Kit](polymer_starter_kit.md)
