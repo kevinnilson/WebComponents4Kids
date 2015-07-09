@@ -10,7 +10,7 @@
 * [Polymer](polymer.md)
 * [Polymer Starter Kit](polymer_starter_kit.md)
 * [Build Your Own Website with Polymer Starter Kit](build_your_own_website_with_polymer_starter_kit.md)
-* Resources
+* [Resources](resources.md)
    * Setup Instructions
    * Additional Resources
 
