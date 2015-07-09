@@ -14,8 +14,8 @@ todo make images local and same size
 -->
 
 
-![](images/webcomponentslogo.svg)
-![](images/polymerlogo.svg)
+![](images/webcomponentslogo.png)
+![](images/polymerlogo.png)
 ![](images/devoxx4kidslogo.png)
 
 
