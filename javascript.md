@@ -1,11 +1,11 @@
 # JavaScript
 
-JavaScript tells the browser how to change the web page when events occur (like clicking on something)
+JavaScript tells the browser how to change the web page when events occur (like clicking on something).
 
 
-##TODO
 
-add more
+
+*TODO add code and plunker*
 
 
 ---
