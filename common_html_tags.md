@@ -2,7 +2,6 @@
 
 ```  <h1>Learning HTML</h1>
 
-hhhhh
 
    <H1>this is a heading</H1>
     
@@ -10,15 +9,14 @@ hhhhh
 <a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
 
 
-<br>
+<br/>
 
 
 <span>this is a span</span>
 <br>
 <span>this is another span</span>
 
-<div style="color:#00ff00">this is a div 
-</div>
+<div style="color:#00ff00">this is a div </div>
 
 <div style="color:#00fff0">this is another div 
 </div>
