@@ -52,8 +52,5 @@ The above CSS will make your page's background red, the heading will be green an
 
 
 ---
-
-
 ### Learning More
-
 http://www.w3schools.com/css/default.asp
