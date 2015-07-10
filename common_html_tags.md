@@ -12,17 +12,17 @@
 <br>
 
 
-<span>this is a span</span>
+```<span>this is a span</span>```
 <br>
-<span>this is another span</span>
+```<span>this is another span</span>```
 
-<div style="color:#00ff00">this is a div 
-</div>
+```<div style="color:#00ff00">this is a div 
+</div>```
 
-<div style="color:#00fff0">this is another div 
-</div>
+```<div style="color:#00fff0">this is another div 
+</div>```
 
-<button type="button" onclick="alert('you just clicked a button')">Click Me!</button>
+```<button type="button" onclick="alert('you just clicked a button')">Click Me!</button>```
 
 <p> 
 <!-- this is how you add a comment in HTML -->
@@ -35,20 +35,20 @@
      <p>
      <ul>
        
-       <li>h1 is the biggest heading</li>
+       ```<li>h1 is the biggest heading</li>
          <li>H2 is a smaller heading</li>
-         <li>H6 is a smallest heading</li>
+         <li>H6 is a smallest heading</li>```
      </ul>
    </p>
      
      <ul>
-  <li>in HTML links are defined as anchor tag</li>
+  ```<li>in HTML links are defined as anchor tag</li>
   <li>href specifies a link's destination</li>
-  <li>The target attribute specifies where to open the linked document</li>
+  <li>The target attribute specifies where to open the linked document</li>```
 </ul>
      
    <ul>
-  this is a line brake
+ ```<br>this is a line brake```
 </ul>  
      
    <ul>
