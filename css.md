@@ -121,6 +121,8 @@ Inline style sheets allow you to put styling directly in a tag
 
 ```
 
+<!-- TODO why are styles not showing up in example -->
+
 [try on plunker](http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview)
 
 
