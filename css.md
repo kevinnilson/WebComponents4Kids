@@ -41,11 +41,14 @@ There are 3 ways to add styles
 
 
 ## External Style Sheet
-External style sheets allow you to put your styles in there own files for ease of maintainability.
+External style allow you to put your styles in there own files for ease of maintainability.
 
 ```html <link rel="stylesheet" href="mystyle.css">```
 
 [try on plunker](http://plnkr.co/edit/fen6KwOWV1ghucIlOomw?p=preview)
+
+
+
 
 ## Internal Style Sheet
 Internal style sheets allow you to put your styles in the HTML file's head.
@@ -58,7 +61,17 @@ Internal style sheets allow you to put your styles in the HTML file's head.
 
 [try on plunker](http://plnkr.co/edit/3YGGCJduQGetaxMQ4UmL?p=preview)
 
-*TODO add code and plunker*
+
+
+## Inline Style
+Inline style sheets allow you to put styling directly in a tag
+
+```<h1 style="color:red;">I love inline styles</h1>```
+
+[try on plunker](http://plnkr.co/edit/PpVdbdftjsRKVDq6K5gN?p=preview)
+
+
+
  
 
 ## CSS Selectors
