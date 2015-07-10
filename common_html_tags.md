@@ -3,11 +3,9 @@
 test
 
 
-  <h1>Learning HTML</h1>
-
-
-   <H1>this is a heading</H1>
-<!--    
+<h1>Learning HTML</h1>
+<h1>this is a heading</h1>
+    
 
 <a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
 
@@ -33,8 +31,8 @@ test
     
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
 * h1 is the biggest heading
-* H2 is a smaller heading
-* H6 is a smallest heading
+* h2 is a smaller heading
+* h6 is a smallest heading
 
 * in HTML links are defined as anchor tag
 * href specifies a link's destination
