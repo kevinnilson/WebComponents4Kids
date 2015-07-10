@@ -5,9 +5,7 @@
 <h1>Learning HTML</h1>
 <h1>this is a heading</h1>
     
-
 <a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
-
 
 <br/>
 
@@ -23,7 +21,8 @@
 
 <!-- this is how you add a comment in HTML -->
 ```
-    
+[try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
+
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
 * h1 is the biggest heading
 * h2 is a smaller heading
