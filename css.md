@@ -23,12 +23,12 @@ p {
     font-style: italic;
 }
 ```
-
+The above CSS will make your page's background red, the heading will be green and centered, and the paragraph will be cursive and italic.
 
 [try on plunker](http://plnkr.co/edit/0mIhNvQ8fGF0VWvpgnNo?p=preview)
 
 
-The above CSS will make your page's background red, the heading will be green and centered, and the paragraph will be cursive and italic.
+
 
 
 
