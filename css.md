@@ -84,7 +84,6 @@ Inline style sheets allow you to put styling directly in a tag
 * class
 
 ```html
-
 <!DOCTYPE html>
 <html>
 
