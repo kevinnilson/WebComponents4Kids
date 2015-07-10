@@ -2,7 +2,7 @@
 
 test
 
-```  <h1>Learning HTML</h1>
+  <h1>Learning HTML</h1>
 
 
    <H1>this is a heading</H1>
@@ -26,9 +26,9 @@ test
 <button type="button" onclick="alert('you just clicked a button')">Click Me!</button>
 
 <p> 
-<!- - this is how you add a comment in HTML - ->
+<!-- this is how you add a comment in HTML -->
 </p>
-```
+
     
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
 * h1 is the biggest heading
