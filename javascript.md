@@ -4,10 +4,9 @@
 
 JavaScript tells the browser how to change the web page when events occur (like clicking on something).
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = 'Hello JavaScript!'">
-Click Me!</button>
+document.getElementById('mydiv').innerHTML = 'Hello From JavaScript!'
 
+[plunker](http://plnkr.co/edit/rRemDofP3nCJwzbFJJU9?p=preview)
 
 *TODO add code and plunker*
 
