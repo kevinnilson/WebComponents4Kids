@@ -1,5 +1,5 @@
 # Common HTML Tags
-
+```
   <h1>Learning HTML</h1>
 
 
@@ -42,13 +42,13 @@
    </p>
      
      <ul>
-  ```<li>in HTML links are defined as anchor tag</li>
+  <li>in HTML links are defined as anchor tag</li>
   <li>href specifies a link's destination</li>
-  <li>The target attribute specifies where to open the linked document</li>```
+  <li>The target attribute specifies where to open the linked document</li>
 </ul>
      
    <ul>
- ```<br>this is a line brake```
+ <br>```this is a line brake
 </ul>  
      
    <ul>
