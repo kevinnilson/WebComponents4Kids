@@ -119,7 +119,7 @@ Inline style sheets allow you to put styling directly in a tag
 
 ```
 
-http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview
+[try on plunker](http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview)
 
 
 ---
