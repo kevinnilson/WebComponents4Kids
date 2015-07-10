@@ -40,11 +40,23 @@ There are 3 ways to add styles
 * Inline style
 
 
-## External style sheet
+## External Style Sheet
 External style sheets allow you to put your styles in there own files for ease of maintainability.
-```<link rel="stylesheet" href="mystyle.css">```
+
+```html <link rel="stylesheet" href="mystyle.css">```
 
 [try on plunker](http://plnkr.co/edit/fen6KwOWV1ghucIlOomw?p=preview)
+
+## Internal Style Sheet
+Internal style sheets allow you to put your styles in the HTML file's head.
+
+```html
+<head>
+  <link rel="stylesheet" href="mystyle.css">
+</head>
+```
+
+[try on plunker](TODO)
 
 *TODO add code and plunker*
  
