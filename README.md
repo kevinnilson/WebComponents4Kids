@@ -30,6 +30,6 @@ This workshop will be ran at:
 
  This workshop has been prepared by:
 
-Kevin Nilson [@javaclimber](https://twitter.com/javaclimber)
+Kevin Nilson [@javaclimber](https://twitter.com/javaclimber)  [+KevinNilson](https://plus.google.com/+KevinNilson) [JavaClimber.com](http://www.javaclimber.com)
 
-Andy Nilson [@andynilson](https://twitter.com/andy_nilson)
+Andy Nilson [@andynilson](https://twitter.com/andy_nilson) [AndyNilson.com](http://www.andynilson.com)
