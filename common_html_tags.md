@@ -21,7 +21,7 @@
 
 <button type="button" onclick="alert('you just clicked a button')">Click Me!</button>
 
- this is how you add a comment in HTML
+<!-- this is how you add a comment in HTML -->
 ```
     
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
