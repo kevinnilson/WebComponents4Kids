@@ -3,7 +3,8 @@
 test
 
 
-```<h1>Learning HTML</h1>
+```html
+<h1>Learning HTML</h1>
 <h1>this is a heading</h1>
     
 
@@ -12,15 +13,13 @@ test
 
 <br/>
 
-
 <span>this is a span</span>
-<br>
 <span>this is another span</span>
 
-<div style="color:#00ff00">this is a div </div>
+<br/>
 
-<div style="color:#00fff0">this is another div 
-</div>
+<div style="color:#00ff00">this is a div </div>
+<div style="color:#00fff0">this is another div</div>
 
 <button type="button" onclick="alert('you just clicked a button')">Click Me!</button>
 
