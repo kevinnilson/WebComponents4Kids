@@ -40,7 +40,7 @@ The main difference is that the span tag is an inline element, whereas the div t
 * The target attribute specifies where to open the linked document
      
 
- ```<br>```this is a line brake
+<br> this is a line brake
 
    
 The span tag is used to group inline-elements in a document.
