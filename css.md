@@ -10,7 +10,7 @@ CSS tells the browser how each type of HTML element should be displayed (color, 
 
 ```css
 body {
-    background-color: #00FF00;
+    background-color: #FF0000;
 }
 
 h1 {
@@ -34,9 +34,14 @@ The above CSS will make your page's background red, the heading will be green an
 
 
 ## Ways to Insert CSS
+There are 3 ways to add styles
 * External style sheet
 * Internal style sheet
 * Inline style
+
+
+## External style sheet
+```<link rel="stylesheet" href="mystyle.css">```
 
 *TODO add code and plunker*
  
