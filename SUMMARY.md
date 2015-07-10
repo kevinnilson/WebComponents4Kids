@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+* [Resources](resources.md)
+   * [Installation Guide](installation_guide.md)
+   * [Additional References](additional_references..md)
 * [Overview](overview.md)
 * [Web Basics](web_basics.md)
    * [HTML](html.md)
@@ -11,7 +14,4 @@
 * [Polymer](polymer.md)
 * [Polymer Starter Kit](polymer_starter_kit.md)
 * [Build Your Own Website with Polymer Starter Kit](build_your_own_website_with_polymer_starter_kit.md)
-* [Resources](resources.md)
-   * [Installation Guide](installation_guide.md)
-   * [Additional References](additional_references..md)
 
