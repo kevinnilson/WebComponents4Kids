@@ -27,6 +27,11 @@
 </tr>
 <td>Kevin Nilson</td>
 
+TODO close table tag
+TODO add heading
+todo remove style on table
+todo add websites
+
 
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
