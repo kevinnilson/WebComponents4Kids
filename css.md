@@ -79,11 +79,13 @@ Inline style sheets allow you to put styling directly in a tag
  
 
 ## CSS Selectors
+
+
 * element
 * id
 * class
 
-```html
+```
 <!DOCTYPE html>
 <html>
 
@@ -95,12 +97,12 @@ Inline style sheets allow you to put styling directly in a tag
       }
       
       
-      /* All span tags are red */
+      /* All tags with the class mycolor are lime */
       .mycolor{
         color:lime;
       }
       
-      /* All span tags are red */
+      /* The tag with the id myothercolor are lime */
       #myothercolor{
         color:brown;
       }
