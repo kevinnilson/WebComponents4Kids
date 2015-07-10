@@ -128,6 +128,35 @@ You can limit what is styled with CSS selectors.  CSS selectors are used to find
 [try on plunker](http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview)
 
 
+
+you can select by type by adding a tag
+```css
+h1{
+  color:red;
+  text-align: center;
+}```
+
+
+
+you can select by class by adding a . followed by the class name and adding the class to the tag
+```
+.mycolor{
+    color:lime;
+}
+    
+<div class="mycolor">using class css selector</div>
+```
+
+
+you can select by id by adding a # followed by the id name and adding the id to the tag
+```
+.mycolor{
+    color:lime;
+}
+    
+
+<div id="myothercolor">using id css selector</div>  
+```
 ---
 ### Learning More
 http://www.w3schools.com/css/default.asp
