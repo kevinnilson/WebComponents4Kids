@@ -27,7 +27,6 @@
 <p> 
 <!-- this is how you add a comment in HTML -->
 </p>
-```
 
     
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
