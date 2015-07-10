@@ -10,7 +10,7 @@ CSS tells the browser how each type of HTML element should be displayed (color, 
 
 ```css
 body {
-    background-color: #FF0000;
+    background-color: #00FF00;
 }
 
 h1 {
