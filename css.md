@@ -79,11 +79,13 @@ Inline style sheets allow you to put styling directly in a tag
  
 
 ## CSS Selectors
+You can limit what is styled with CSS selectors.  CSS selectors are used to find HTML elements based on their: 
 
-
-* element
+* type
 * id
 * class
+* attribute
+* ...
 
 ```
 <!DOCTYPE html>
@@ -94,6 +96,7 @@ Inline style sheets allow you to put styling directly in a tag
       /* All h1 tags are red */
       h1{
         color:red;
+        text-align: center;
       }
       
       
@@ -121,7 +124,6 @@ Inline style sheets allow you to put styling directly in a tag
 
 ```
 
-<!-- TODO why are styles not showing up in example -->
 
 [try on plunker](http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview)
 
