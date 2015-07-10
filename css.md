@@ -65,6 +65,8 @@ Internal style sheets allow you to put your styles in the HTML file's head.
 
 
 
+
+
 ## Inline Style
 Inline style sheets allow you to put styling directly in a tag
 
