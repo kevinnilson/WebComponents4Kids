@@ -44,6 +44,8 @@ There are 3 ways to add styles
 External style sheets allow you to put your styles in there own files for ease of maintainability.
 ```<link rel="stylesheet" href="mystyle.css">```
 
+[try on plunker](http://plnkr.co/edit/fen6KwOWV1ghucIlOomw?p=preview)
+
 *TODO add code and plunker*
  
 
