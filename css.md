@@ -83,9 +83,44 @@ Inline style sheets allow you to put styling directly in a tag
 * id
 * class
 
-*TODO add code and plunker*
+```html
 
+<!DOCTYPE html>
+<html>
 
+  <head>
+    <style>
+      /* All h1 tags are red */
+      h1{
+        color:red;
+      }
+      
+      
+      /* All span tags are red */
+      .mycolor{
+        color:lime;
+      }
+      
+      /* All span tags are red */
+      #myothercolor{
+        color:brown;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>tag css selector</h1>
+    
+    <div class="mycolor">using class css selector</div>
+    <div id="myothercolor">using id css selector</div>
+    
+  </body>
+
+</html>
+
+```
+
+http://plnkr.co/edit/nh2mZt43tMENWDXTeHRC?p=preview
 
 
 ---
