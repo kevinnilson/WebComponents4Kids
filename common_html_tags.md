@@ -100,7 +100,8 @@ An HTML table consists of the table element and one or more ```<tr>```, ```<th>`
 The ```<tr>``` element defines a table row, the ```<th>``` element defines a table header, and the ```<td>``` element defines a table cell.
 
 
-```<table>
+```html
+<table>
   <tr>
     <th>Name</th>
     <th>Website</th>
