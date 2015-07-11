@@ -51,18 +51,20 @@ There are many tags in HTML you can use to make your website.  In the above exam
 
 
 The ```<span>``` tag is used to group inline-elements in a document.
-
 ```html
 <span>this is a span</span>
-<span>this is another span</span>
+```
+
+The ```<div>``` tag is also used to group inline-elements in a document.
+```
 <div style="color:#00ff00">this is a div </div>
-<div style="color:#00fff0">this is another div</div>
 ```
 
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
 
+
+The ```<h1> to <h6>``` tags are for headings.  ```<h1>``` defines the most important heading while ```<h6>``` defines the least important heading.
 ```
-<h1>Learning HTML</h1>
 <h1>this is a heading</h1>
 ```
 
