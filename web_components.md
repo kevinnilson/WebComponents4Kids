@@ -101,6 +101,7 @@ With custom elements your HTML can look much more readable like:
 ---
 ### Learning More
 http://webcomponents.org/
+https://dzone.com/articles/introduction-web-components
 
 
 
