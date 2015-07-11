@@ -30,16 +30,18 @@
   </tr>
   <tr>
     <td>Andy</td>
-    <td>[andynilson.com](andynilson.com)</td>
+    <td>andynilson.com</td>
     <td>@andy_nilson</td>
     <td>google.com/+andynilson</td>
     
     <td>Kevin</td>
-    <td>[javaclimber.com](javaclimber.com)</td>
+    <td>javaclimber.com</td>
     <td>@javaclimber</td>
     <td>@javaclimber</td><!--please change this line-->
   </tr>
 </table>
+
+
 
 
 ```
