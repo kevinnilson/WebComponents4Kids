@@ -47,6 +47,10 @@
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
+There are many tags in HTML you can use to make your website.
+In the above example I am showing H1,a href,span,div,and a button.
+
+
 ```html
 <span>this is a span</span>
 <span>this is another span</span>
