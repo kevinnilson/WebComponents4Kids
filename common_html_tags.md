@@ -21,16 +21,25 @@
 
 <!-- this is how you add a comment in HTML -->
 
-<table style="width:100%">
-<tr>
-<td>Andy Nilson</td>
-</tr>
-<td>Kevin Nilson</td>
-
-TODO close table tag
-TODO add heading
-todo remove style on table
-todo add websites
+<table>
+  <tr>
+    <th>Name</th>
+    <th>website</th>
+    <th>twitter</th>
+    <th>G+</th>
+  </tr>
+  <tr>
+    <td>Andy</td>
+    <td>[andynilson.com](andynilson.com)</td>
+    <td>@andy_nilson</td>
+    <td>google.com/+andynilson</td>
+    
+    <td>Kevin</td>
+    <td>[javaclimber.com](javaclimber.com)</td>
+    <td>@javaclimber</td>
+    <td>@javaclimber</td><!--please change this line-->
+  </tr>
+</table>
 
 
 ```
