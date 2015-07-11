@@ -3,19 +3,19 @@
 
 ```html
 <h1>Learning HTML</h1>
-<h1>this is a heading</h1>
+<h1>This is a Heading</h1>
     
-<a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
+<a href="http://www.andynilson.com/" target="_blank">link to AndyNilson.com</a>
 
 <br/>
 
 <span>this is a span</span>
-<span>this is another span</span>
+<span>this span is on the same line</span>
 
 <br/>
 
 <div style="color:#00ff00">this is a div </div>
-<div style="color:#00fff0">this is another div</div>
+<div style="color:#00fff0">this div in on the next line</div>
 
 <button type="button" onclick="alert('you just clicked a button')">Click Me!</button>
 
@@ -24,20 +24,20 @@
 <table>
   <tr>
     <th>Name</th>
-    <th>website</th>
-    <th>twitter</th>
+    <th>Website</th>
+    <th>Twitter</th>
     <th>G+</th>
   </tr>
   <tr>
     <td>Andy</td>
     <td>andynilson.com</td>
     <td>@andy_nilson</td>
-    <td>google.com/+andynilson</td>
+    <td>google.com/+andynilson</td><!--todo please check this-->
     
     <td>Kevin</td>
     <td>javaclimber.com</td>
     <td>@javaclimber</td>
-    <td>@javaclimber</td><!--please change this line-->
+    <td>google.com/+KevinNilson</td><!--todo please check this-->
   </tr>
 </table>
 
@@ -48,7 +48,7 @@
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
 There are many tags in HTML you can use to make your website.
-In the above example I am showing H1,a href,span,div,and a button.
+In the above example I am showing h1,a,span,div,and button.
 
 
 ```html
