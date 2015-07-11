@@ -111,8 +111,9 @@ The tr element defines a table row, the th element defines a table header, and t
     <td>Andy</td>
     <td>andynilson.com</td>
     <td>@andy_nilson</td>
-    <td>https://plus.google.com/+AndyNilson123</td>
-    
+    <td>google.com/+AndyNilson123</td>
+  </tr>
+  <tr>    
     <td>Kevin</td>
     <td>javaclimber.com</td>
     <td>@javaclimber</td>
