@@ -12,9 +12,38 @@ Web Components consist of 4 main elements which can be used separately or all to
 
 ## Templates
 
+```html
+<!-- this is how you define a template -->
+<template id="tpl">
+<p>Use templates to hold HTML you would like to use again.  I will add some websites I like to this template.</p>
+
+<ul>
+  <li>polymer-project.org</li>
+  <li>JavaClimber.com</li>
+  <li>AndyNilson.com</li>
+  <li>meetup.com/Devoxx4Kids-BayArea</li>
+  <li>devoxx4kids.org</li>
+</ul>
+</template>
+
+<!-- this is how you can use a template -->
+<script>
+var tpl = document.querySelector('#tpl');
+var clone = document.importNode(tpl.content, true);
+document.body.appendChild(clone);
+</script>
+```
+
+
 ## Shadow DOM
 
+```<button>Click Me</button>
 
+<script>
+var host = document.querySelector('button');
+var root = host.createShadowRoot();
+root.innerHTML = 'DO NOT <content></content>!!!';
+</script>```
 
 
 
@@ -28,7 +57,17 @@ Without custom elements HTML typically looks like div soup:
 ```
 <div>
   <div></div>
-  <div></div>
+  <div>
+    <div></div>
+    <div></div>
+  </div>
+  <div>
+      <div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+  </div>
 </div>
 
 ```
