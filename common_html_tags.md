@@ -63,7 +63,7 @@ The ```<div>``` tag is also used to group inline-elements in a document.
 The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
 
 
-The ```<h1> to <h6>``` tags are for headings.  ```<h1>``` defines the most important heading while ```<h6>``` defines the least important heading.
+The ```<h1> to <h6>``` tags are for headings.  
 ```
 <h1>this is a heading</h1>
 ```
@@ -80,6 +80,8 @@ The ```<h1> to <h6>``` tags are for headings.  ```<h1>``` defines the most impor
 * in HTML links are defined as anchor tag
 * href specifies a link's destination
 * The target attribute specifies where to open the linked document
+* a linked page is displayed in the current browser window if you do now specify a target
+* _blank is a special target name that means always in a new window
      
 
 
