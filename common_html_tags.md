@@ -3,7 +3,7 @@
 
 ```html
 <h1>Learning HTML</h1>
-<h1>This is a Heading</h1>
+<h2>This is a Smaller Heading</h2>
     
 <a href="http://www.andynilson.com/" target="_blank">link to AndyNilson.com</a>
 
@@ -47,21 +47,7 @@
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
-There are many tags in HTML you can use to make your website.  In the above example I am showing h1,a,span,div,and button.
-
-
-The ```<span>``` tag is used to group inline-elements in a document.
-```html
-<span>this is a span</span>
-```
-
-The ```<div>``` tag is also used to group inline-elements in a document.
-```
-<div style="color:#00ff00">this is a div </div>
-```
-
-The main difference is that the span tag is an inline element, whereas the div tag is a block level element.
-
+There are many tags in HTML you can use to make your website.  In the above example you can see several tags.
 
 The ```<h1> to <h6>``` tags are for headings.  
 ```
@@ -83,14 +69,33 @@ The ```<a>``` tag defines a hyperlink, which is used to link from one page to an
 * The target attribute specifies where to open the linked document
 * a linked page is displayed in the current browser window if you do now specify a target
 * _blank is a special target name that means always in a new window
+* 
+
+
+Use ```<br/>``` to add a line brake.
+
+
+The ```<span>``` tag is used to group inline-elements in a document.
+```html
+<span>this is a span</span>
+```
+
+The ```<div>``` tag is also used to group inline-elements in a document.
+```
+<div style="color:#00ff00">this is a div </div>
+```
+
+* TODO add button
+* TODO add table
+
+
+
+
+
+
+
      
 
-
-```<br/>``` this is a line brake
-
-   
-The span tag is used to group inline-elements in a document.
-The div tag defines a division or a section in an HTML document and is also used to group block-elements to format them with CSS.
 
 
   
