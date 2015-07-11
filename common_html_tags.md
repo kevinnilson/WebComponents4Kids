@@ -47,9 +47,10 @@
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
-There are many tags in HTML you can use to make your website.
-In the above example I am showing h1,a,span,div,and button.
+There are many tags in HTML you can use to make your website.  In the above example I am showing h1,a,span,div,and button.
 
+
+The ```<span>``` tag is used to group inline-elements in a document.
 
 ```html
 <span>this is a span</span>
