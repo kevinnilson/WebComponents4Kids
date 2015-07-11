@@ -92,6 +92,12 @@ With custom elements your HTML can look much more readable like:
 
 ## HTML Imports
 
+
+```html
+<link rel="import" href="my-library-configuration.html">
+<my-library-widget type="best"></my-library-widget>```
+
+
 ---
 ### Learning More
 http://webcomponents.org/
