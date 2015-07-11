@@ -95,9 +95,9 @@ Inside a button element you can put text or images.
 
 The table tag defines an HTML table.
 
-An HTML table consists of the table element and one or more tr, th, and td tsgs.
+An HTML table consists of the table element and one or more ```<tr>```, ```<th>```, and ```<td>``` tags.
 
-The tr element defines a table row, the th element defines a table header, and the td element defines a table cell.
+The ```<tr>``` element defines a table row, the ```<th>``` element defines a table header, and the ```<td>``` element defines a table cell.
 
 
 ```<table>
