@@ -32,12 +32,12 @@
     <td>Andy</td>
     <td>andynilson.com</td>
     <td>@andy_nilson</td>
-    <td>google.com/+andynilson</td><!--todo please check this-->
+    <td>https://plus.google.com/+AndyNilson123</td>
     
     <td>Kevin</td>
     <td>javaclimber.com</td>
     <td>@javaclimber</td>
-    <td>google.com/+KevinNilson</td><!--todo please check this-->
+    <td>google.com/+KevinNilson</td>
   </tr>
 </table>
 
