@@ -73,6 +73,7 @@ The ```<h1> to <h6>``` tags are for headings.
 * h6 is a smallest heading
 
 
+The ```<a>``` tag defines a hyperlink, which is used to link from one page to another.
 ```
 <a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
 ```
