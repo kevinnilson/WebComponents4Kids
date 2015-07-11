@@ -85,8 +85,42 @@ The ```<div>``` tag is also used to group inline-elements in a document.
 <div style="color:#00ff00">this is a div </div>
 ```
 
-* TODO add button
-* TODO add table
+
+
+The button tag defines a clickable button.
+Inside a button element you can put text or images. 
+
+```<button type="button" onclick="alert('you just clicked a button')">Click Me!</button>```
+
+
+The table tag defines an HTML table.
+
+An HTML table consists of the table element and one or more tr, th, and td tsgs.
+
+The tr element defines a table row, the th element defines a table header, and the td element defines a table cell.
+
+
+```<table>
+  <tr>
+    <th>Name</th>
+    <th>Website</th>
+    <th>Twitter</th>
+    <th>G+</th>
+  </tr>
+  <tr>
+    <td>Andy</td>
+    <td>andynilson.com</td>
+    <td>@andy_nilson</td>
+    <td>https://plus.google.com/+AndyNilson123</td>
+    
+    <td>Kevin</td>
+    <td>javaclimber.com</td>
+    <td>@javaclimber</td>
+    <td>google.com/+KevinNilson</td>
+  </tr>
+</table>```
+
+
 
 
 
