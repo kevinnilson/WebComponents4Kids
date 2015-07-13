@@ -37,7 +37,11 @@ document.body.appendChild(clone);
 
 ## Shadow DOM
 
-```<button>Click Me</button>
+Shadow DOM is a tool that lets the web developer create his or her own hidden encapsulated markup and styles in the same way in which
+```<video>``` controls are made.
+
+```html 
+<button>Click Me</button>
 
 <script>
 var host = document.querySelector('button');
@@ -45,6 +49,7 @@ var root = host.createShadowRoot();
 root.innerHTML = 'DO NOT <content></content>!!!';
 </script>```
 
+[try on plunker](http://plnkr.co/edit/nRcMWfo28ZrsSvlbsTbp?p=preview)
 
 
 ## Custom Elements
@@ -91,7 +96,7 @@ With custom elements your HTML can look much more readable like:
 ```
 
 ## HTML Imports
-
+HTML Imports are a way to include external HTML documents and web components on a page without making an Ajax request or loading an iframe. Because of this capability, HTML Imports may lead to better page load times, new opportunities to reuse code, and easier integrations.
 
 ```html
 <link rel="import" href="my-library-configuration.html">
