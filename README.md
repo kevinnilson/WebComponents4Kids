@@ -1,7 +1,3 @@
-<!-- 
-TODO
-Add Cover http://help.gitbook.com/format/cover.html
--->
 # Web Components 4 Kids Workshop
 
 This workshop is designed to teach you some of the basics of **web components**.  You will get a quick intro to the web and web components.  Then you will build your own web component with  **Polymer**.  Finally you will begin building your own website that looks great on desktop and mobile browsers.
@@ -39,3 +35,9 @@ This workshop is designed to teach you some of the basics of **web components**.
 [@andynilson](https://twitter.com/andy_nilson)
 [G+](https://google.com/+AndyNilson123)
 [AndyNilson.com](http://www.andynilson.com)
+
+
+<!-- 
+TODO
+Add Cover http://help.gitbook.com/format/cover.html
+-->
