@@ -2,7 +2,7 @@
 
 ![CSS3 Logo](images/css3logo.png)
 
-CSS tells the browser how each type of HTML element should be displayed (color, size, font).  CSS stands for Cascading Style Sheets.
+**CSS** tells the browser how each type of **HTML** element should be displayed (color, size, font).  **CSS** stands for **C**ascading **S**tyle **S**heets.
 
 
 
@@ -23,7 +23,7 @@ p {
     font-style: italic;
 }
 ```
-The above CSS will make your page's background red, the heading will be green and centered, and the paragraph will be cursive and italic.
+The above **CSS** will make your page's background red, the heading will be green and centered, and the paragraph will be cursive and italic.
 
 [try on plunker](http://plnkr.co/edit/0mIhNvQ8fGF0VWvpgnNo?p=preview)
 
@@ -53,7 +53,7 @@ External style allow you to put your styles in there own files for ease of maint
 
 
 ## Internal Style Sheet
-Internal style sheets allow you to put your styles in the HTML file's head.
+Internal style sheets allow you to put your styles in the **HTML** file's head.
 
 ```html
 <head>
@@ -79,7 +79,7 @@ Inline style sheets allow you to put styling directly in a tag
  
 
 ## CSS Selectors
-You can limit what is styled with CSS selectors.  CSS selectors are used to find HTML elements based on their: 
+You can limit what is styled with **CSS** selectors.  **CSS** selectors are used to find **HTML** elements based on their: 
 
 * type
 * id
