@@ -1,8 +1,8 @@
 # Web Components
 
-**Web Components** are a set of new web standards being produced by Google engineers that allow for the creation of reusable widgets or components in the web. 
+**Web Components** are a set of new web standards being produced by **Google** engineers that allow for the creation of reusable widgets or components in the web. 
 
-Web Components consist of 4 main elements which can be used separately or all together:
+**Web Components** consist of 4 main elements which can be used separately or all together:
 
 * Templates
 * Shadow DOM
@@ -37,7 +37,7 @@ document.body.appendChild(clone);
 
 ## Shadow DOM
 
-Shadow DOM is a tool that lets the web developer create his or her own hidden encapsulated markup and styles in the same way in which
+**Shadow DOM** is a tool that lets the web developer create his or her own hidden encapsulated markup and styles in the same way in which
 ```<video>``` controls are made.
 
 ```html 
@@ -56,7 +56,7 @@ root.innerHTML = 'DO NOT <content></content>!!!';
 
 Custom Elements = Templates + Shadow DOM.
 
-Without custom elements HTML typically looks like div soup:
+Without custom elements **HTML** typically looks like div soup:
 ![Div Soup](images/div-soup-resized.jpg)
 
 ```
@@ -77,7 +77,7 @@ Without custom elements HTML typically looks like div soup:
 
 ```
 
-With custom elements your HTML can look much more readable like:
+With custom elements your **HTML** can look much more readable like:
 ```
 <school-class>
   <class-grade></class-grade>
@@ -96,7 +96,7 @@ With custom elements your HTML can look much more readable like:
 ```
 
 ## HTML Imports
-HTML Imports are a way to include external HTML documents and web components on a page without making an Ajax request or loading an iframe. Because of this capability, HTML Imports may lead to better page load times, new opportunities to reuse code, and easier integrations.
+**HTML Imports** are a way to include external **HTML** documents and web components on a page without making an Ajax request or loading an iframe. Because of this capability, **HTML** Imports may lead to better page load times, new opportunities to reuse code, and easier integrations.
 
 ```html
 <link rel="import" href="my-library-configuration.html">
