@@ -1,4 +1,4 @@
-****************<!-- 
+<!-- 
 TODO
 Add Cover http://help.gitbook.com/format/cover.html
 -->
