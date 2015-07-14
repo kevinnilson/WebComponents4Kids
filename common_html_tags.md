@@ -21,7 +21,7 @@
 
 <!-- this is how you add a comment in HTML -->
 
-<table>
+<table border="1" style="border-collapse: collapse;">
   <tr>
     <th>Name</th>
     <th>Website</th>
