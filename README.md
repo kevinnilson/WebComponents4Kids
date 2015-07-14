@@ -30,12 +30,12 @@ This workshop is designed to teach you some of the basics of **web components**.
 
 
 ###  This workshop has been prepared by:
-Kevin Nilson 
+**Kevin Nilson** 
 [@javaclimber](https://twitter.com/javaclimber)  [G+](https://google.com/+KevinNilson)
 [LinkedIn](https://www.linkedin.com/in/kevinnilson)
 [JavaClimber.com](http://www.javaclimber.com)
 
-Andy Nilson 
+**Andy Nilson** 
 [@andynilson](https://twitter.com/andy_nilson)
 [G+](https://google.com/+AndyNilson123)
 [AndyNilson.com](http://www.andynilson.com)
