@@ -27,14 +27,16 @@ This workshop is designed to teach you some of the basics of **web components**.
 
 ###  This workshop has been prepared by:
 **Kevin Nilson** 
-[@javaclimber](https://twitter.com/javaclimber)  [G+](https://google.com/+KevinNilson)
+[@javaclimber](https://twitter.com/javaclimber)  [JavaClimber.com](http://www.javaclimber.com)
 [LinkedIn](https://www.linkedin.com/in/kevinnilson)
-[JavaClimber.com](http://www.javaclimber.com)
+[G+](https://google.com/+KevinNilson)
+
 
 **Andy Nilson** 
 [@andynilson](https://twitter.com/andy_nilson)
-[G+](https://google.com/+AndyNilson123)
 [AndyNilson.com](http://www.andynilson.com)
+[G+](https://google.com/+AndyNilson123)
+
 
 
 <!-- 
