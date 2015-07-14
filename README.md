@@ -37,5 +37,5 @@ Kevin Nilson
 
 Andy Nilson 
 [@andynilson](https://twitter.com/andy_nilson)
-[G+](https://google.com/AndyNilson123)
+[G+](https://google.com/+AndyNilson123)
 [AndyNilson.com](http://www.andynilson.com)
