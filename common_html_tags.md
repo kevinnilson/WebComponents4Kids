@@ -5,7 +5,7 @@
 <h1>Learning HTML</h1>
 <h2>This is a Smaller Heading</h2>
     
-<a href="http://www.andynilson.com/" target="_blank">link to AndyNilson.com</a>
+Link to: <a href="http://www.andynilson.com/" target="_blank">AndyNilson.com</a>
 
 <br/>
 
