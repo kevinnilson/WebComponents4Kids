@@ -98,7 +98,7 @@ The ```<tr>``` element defines a table row, the ```<th>``` element defines a tab
 
 
 ```html
-<table>
+<table border="1" style="border-collapse: collapse;">
   <tr>
     <th>Name</th>
     <th>Website</th>
