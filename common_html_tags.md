@@ -40,10 +40,6 @@
     <td>google.com/+KevinNilson</td>
   </tr>
 </table>
-
-
-
-
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
