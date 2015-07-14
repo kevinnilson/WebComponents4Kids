@@ -16,8 +16,8 @@ This workshop is designed to teach you some of the basics of web components.  Yo
 
 
 
-This workshop will be ran at:
 
+## This workshop will be ran at:
 * [OSCON Kids Day](http://www.oscon.com/open-source-2015/public/schedule/detail/43598)
 * 
 [Java One Devoxx4Kids](https://www.oracle.com/javaone)
@@ -28,8 +28,8 @@ This workshop will be ran at:
 ---
 
 
- This workshop has been prepared by:
 
+##  This workshop has been prepared by:
 Kevin Nilson 
 [@javaclimber](https://twitter.com/javaclimber)  [G+](https://google.com/+KevinNilson)
 [LinkedIn](https://www.linkedin.com/in/kevinnilson)
