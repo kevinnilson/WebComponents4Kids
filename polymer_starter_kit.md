@@ -18,7 +18,7 @@ Responsive web design is a website suitable to work on every device and every sc
 Material Design (codenamed Quantum Paper) is a design language developed by Google. Expanding upon the "card" motifs first seen in Google Now, it is a design with increased use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
 
 
-#Example Sites Using the Polymer Starter Kit
+## Example Sites Using the Polymer Starter Kit
 * [AndyNilson.com](http://www.andynilson.com)<br>
 * [JavaClimber.com](http://www.javaclimber.com/)
 
