@@ -1,7 +1,12 @@
 # Build Your Own Website with Polymer Starter Kit
 
+## Change the Title
 
-## Example Websites Built with Polymer Starter Kit
-* [JavaClimber.com](http://www.javaclimber.com)
-* [AndyNilson.com](http://www.andynilson.com)
+## Change the App Name
 
+## Add a Card
+
+## Add a Section
+### Icons
+You an find all the **Polymer Iron Icons** here:
+https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html
