@@ -3,8 +3,14 @@
 The **Polymer** library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
 
 
-**Polymer** builds on top of the upcoming web components technologies. Not all browsers support these standards yet, so the [web components **polyfill** library](http://webcomponents.org/polyfills/) fills the gaps, implementing the **API**s in **JavaScript**. As these technologies are implemented in browsers, the polyfills will shrink and you'll gain the benefits of native implementations.
+**Polymer** builds on top of the **upcoming** web components technologies. Not all browsers support these standards yet, so the [web components **polyfill** library](http://webcomponents.org/polyfills/) fills the gaps, implementing the **API**s in **JavaScript**. As these technologies are implemented in browsers, the polyfills will shrink and you'll gain the benefits of native implementations.
 
+
+
+## Simple Web Component
+
+
+[try on plunker](http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
 
 ##Google Web Components
 https://elements.polymer-project.org/browse?package=google-web-components
