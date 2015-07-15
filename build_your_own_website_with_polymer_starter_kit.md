@@ -15,6 +15,14 @@ app/index.hmtl line 104
 [see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/90a4a3ea98c1fe3172a7f6ec3d110d8b0944b98d)
 
 ## Add a Card
+```html
+<paper-material elevation="1">
+  <p class="paper-font-body2">This is the card content.</p>
+</paper-material>
+
+```
+[see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/87e22866f97d7b5f19e3c8613554774c183d6696)
+
 
 ## Add a Section
 ### Icons
