@@ -8,7 +8,7 @@ The **Polymer** library is designed to make it easier and faster for developers 
 
 
 ## Simple Web Component
-Define the **web component**:
+Define the **Web Component**:
 ```html
 <link rel="import"
       href="http://www.polymer-project.org/1.0/samples/components/polymer/polymer.html">
@@ -29,7 +29,7 @@ Define the **web component**:
 
 ```
 
-Use the **web component**:
+Use the **Web Component**:
 ```html
 <!DOCTYPE html>
 <html lang="en">
