@@ -40,7 +40,7 @@ There are 3 ways to add styles
 * Inline style
 
 
-## External Style Sheet
+### External Style Sheet
 External style allow you to put your styles in there own files for ease of maintainability.
 
 ```html 
@@ -52,7 +52,7 @@ External style allow you to put your styles in there own files for ease of maint
 
 
 
-## Internal Style Sheet
+### Internal Style Sheet
 Internal style sheets allow you to put your styles in the **HTML** file's head.
 
 ```html
@@ -67,7 +67,7 @@ Internal style sheets allow you to put your styles in the **HTML** file's head.
 
 
 
-## Inline Style
+### Inline Style
 Inline style sheets allow you to put styling directly in a tag
 
 ```<h1 style="color:red;">I love inline styles</h1>```
