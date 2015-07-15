@@ -28,6 +28,42 @@ Define the **Web Component**:
 </dom-module>
 
 ```
+TODO ADD PLUNKER
+
+
+## Advanced Web Component
+Define the **Web Component**:
+```html
+<link rel="import"
+      href="http://www.polymer-project.org/1.0/samples/components/polymer/polymer.html">
+
+<dom-module id="my-styled-namecard">
+  <style>
+    /* This would be crazy in non webcomponents. */
+    span {
+      font-weight: bold;
+    }
+  </style>
+  <template>
+    <div>
+      Hi! My name is <span>{{myName}}</span>
+    </div>
+  </template>
+
+  <script>
+    Polymer({
+      is: 'my-styled-namecard',
+      properties: {
+        myName: {
+          type: String
+        }
+      }
+    });
+  </script>
+</dom-module>
+
+```
+TODO ADD PLUNKER
 
 Use the **Web Component**:
 ```html
@@ -39,7 +75,7 @@ Use the **Web Component**:
   </head>
   <body>
   
-    <dom-element></dom-element>
+    <my-styled-namecard my-name="Jesse"></my-styled-namecard>
 
   </body>
 </html>
