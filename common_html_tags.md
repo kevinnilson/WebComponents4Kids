@@ -118,7 +118,8 @@ The ```<tr>``` element defines a table row, the ```<th>``` element defines a tab
     <td>@javaclimber</td>
     <td>google.com/+KevinNilson</td>
   </tr>
-</table>```
+</table>
+```
 
 
 
