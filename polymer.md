@@ -8,6 +8,40 @@ The **Polymer** library is designed to make it easier and faster for developers 
 
 
 ## Simple Web Component
+Define the **web component**:
+```html
+<link rel="import"
+      href="http://www.polymer-project.org/1.0/samples/components/polymer/polymer.html">
+
+<dom-module id="dom-element">
+
+  <template>
+    <p>I'm a DOM element. This is my local DOM!</p>
+  </template>
+
+  <script>
+    Polymer({
+      is: "dom-element"
+    });
+  </script>
+
+</dom-module>
+
+```
+
+Use the **web component**:
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="http://www.polymer-project.org/1.0/samples/components/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="dom-element.html">
+  </head>
+  <body>
+    <dom-element></dom-element>
+  </body>
+</html>
+```
 
 
 [try on plunker](http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
