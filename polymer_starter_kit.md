@@ -15,8 +15,8 @@ Responsive web design is a website suitable to work on every device and every sc
 
 
 #Example Sites Using the Polymer Starter Kit
-[andynilson.com](http://www.andynilson.com)<br>
-[javaclimber.com](http://www.javaclimber.com/)
+* [AndyNilson.com](http://www.andynilson.com)<br>
+* [JavaClimber.com](http://www.javaclimber.com/)
 
 
 
