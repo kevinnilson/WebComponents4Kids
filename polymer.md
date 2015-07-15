@@ -38,7 +38,9 @@ Use the **Web Component**:
     <link rel="import" href="dom-element.html">
   </head>
   <body>
+  
     <dom-element></dom-element>
+
   </body>
 </html>
 ```
@@ -48,6 +50,36 @@ Use the **Web Component**:
 
 ##Google Web Components
 https://elements.polymer-project.org/browse?package=google-web-components
+
+A collection of web components for Google APIs & services. Built with Polymer.
+
+The below example shows how easy it is to add a gogole map to your site using Google Web Components.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Polyfill Web Components for older browsers -->
+  <script src="webcomponents-lite.js"></script>
+
+  <!-- Import element -->
+  <link rel="import" href="google-map.html">
+
+  <style>
+    google-map {
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+
+  <google-map latitude="37.790" longitude="-122.390"></google-map>
+
+</body>
+</html>
+```
+
+[try on plunker](http://plnkr.co/edit/xGNgPEFDFCN4qsBiEeVt?p=preview)
 
 
 ---
