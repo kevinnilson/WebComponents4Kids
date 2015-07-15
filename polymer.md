@@ -3,9 +3,7 @@
 The **Polymer** library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
 
 
-**Polymer** builds on top of the upcoming web components technologies, which don't yet ship in all browsers.
-
-Not all browsers support these standards yet, so the [web components polyfill library](http://webcomponents.org/polyfills/) fills the gaps, implementing the APIs in JavaScript.
+**Polymer** builds on top of the upcoming web components technologies. Not all browsers support these standards yet, so the [web components **polyfill** library](http://webcomponents.org/polyfills/) fills the gaps, implementing the APIs in JavaScript.
 
 The Polymer library. Provides a declarative syntax that makes it simpler to define custom elements. And it adds features like templating, two-way data binding and property observation to help you build powerful, reusable elements with less code.
 
