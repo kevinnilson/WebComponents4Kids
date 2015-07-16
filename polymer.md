@@ -46,7 +46,7 @@ Use the **Web Component**:
 ```
 
 
-[try on plunker](http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
+[try on plunker]http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
 
 
 ## Advanced Web Component
