@@ -29,7 +29,7 @@ app/index.hmtl line 104
 app/index.html line 77
 ```html
 <a data-route="devoxx4kids" href="/devoxx4kids">
-  <iron-icon icon="devoxx4kids"></iron-icon>
+  <iron-icon icon="thumb-up"></iron-icon>
   <span>Devoxx4Kids</span>
 </a>
 ```
