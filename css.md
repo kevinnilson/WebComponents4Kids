@@ -72,7 +72,7 @@ Internal style sheets allow you to put your styles in the **HTML** file's head.
 
 
 ### Inline Style
-Inline style sheets allow you to put styling directly in a tag
+Inline style sheets allow you to put styling directly in a tag.
 
 ```<h1 style="color:red;">I love inline styles</h1>```
 
