@@ -15,6 +15,7 @@ app/index.hmtl line 104
 [see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/90a4a3ea98c1fe3172a7f6ec3d110d8b0944b98d)
 
 ## Add a Card
+ app/index.html line 119
 ```html
 <paper-material elevation="1">
   <p class="paper-font-body2">This is the card content.</p>
@@ -58,4 +59,23 @@ Look at all the **[Polymer Iron Icons](https://elements.polymer-project.org/elem
 
 
 ## Change the Theme
-https://www.materialpalette.com/
+1. 
+Select the desired theme from [materialpalette.com](https://www.materialpalette.com/)
+1. 
+Download the Polymer version
+1. 
+Update the root of app/styles/app-theme.html at line 25.
+
+```css
+--dark-primary-color:       #FBC02D;
+--default-primary-color:    #FFEB3B;
+--light-primary-color:      #FFF9C4;
+--text-primary-color:       #212121;
+--accent-color:             #9E9E9E;
+--primary-background-color: #FFF9C4;
+--primary-text-color:       #212121;
+--secondary-text-color:     #727272;
+--disabled-text-color:      #BDBDBD;
+--divider-color:            #B6B6B6;
+```
+[see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/c44dc4a328522ab7841189a5ef4113e5057b5a91)
