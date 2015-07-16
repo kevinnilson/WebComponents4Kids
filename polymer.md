@@ -28,7 +28,25 @@ Define the **Web Component**:
 </dom-module>
 
 ```
-TODO ADD PLUNKER
+
+Use the **Web Component**:
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="http://www.polymer-project.org/1.0/samples/components/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="dom-module.html">
+  </head>
+  <body>
+  
+    <dom-module></dom-module>
+
+  </body>
+</html>
+```
+
+
+[try on plunker](http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
 
 
 ## Advanced Web Component
