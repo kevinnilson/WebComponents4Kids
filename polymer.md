@@ -99,14 +99,14 @@ Use the **Web Component**:
 ```
 
 
-[try on plunker](http://plnkr.co/edit/T6p6QXoun8mAxdIBnWBa?p=preview)
+[try on plunker](http://plnkr.co/edit/cgXR1Q55rR6pMyLxI1X7?p=preview)
 
 ##Google Web Components
 https://elements.polymer-project.org/browse?package=google-web-components
 
 A collection of web components for Google APIs & services. Built with Polymer.
 
-The below example shows how easy it is to add a gogole map to your site using Google Web Components.
+The below example shows how easy it is to add a google map to your site using Google Web Components.
 
 ```html
 <!DOCTYPE html>
