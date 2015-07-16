@@ -25,8 +25,36 @@ app/index.hmtl line 104
 
 
 ## Add a Section
+
+app/index.html line 77
+```html
+<a data-route="devoxx4kids" href="/devoxx4kids">
+  <iron-icon icon="devoxx4kids"></iron-icon>
+  <span>Devoxx4Kids</span>
+</a>
+```
+
+app/index.html line 133
+```html
+<section data-route="devoxx4kids">
+  <paper-material elevation="1">
+    <h2 class="paper-font-display2">Devoxx4Kids</h2>
+    <p>I love Devoxx4Kids!!!</p>
+  </paper-material>
+</section>
+```
+
+app/elements/routing.html line 22
+```html
+page('/devoxx4kids', function () {
+  app.route = 'devoxx4kids';
+});
+```
+
+[see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/4aaea5806f9c0f45987309c42388966c9c4fd20b)
+
 ### Icons
-You an find all the **[Polymer Iron Icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html)**:
+Look at all the **[Polymer Iron Icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html)** for the menu.
 
 
 ## Change the Theme
