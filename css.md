@@ -57,7 +57,11 @@ Internal style sheets allow you to put your styles in the **HTML** file's head.
 
 ```html
 <head>
-  <link rel="stylesheet" href="mystyle.css">
+  <style>
+      h1{
+        color:red;
+      }
+    </style>
 </head>
 ```
 
