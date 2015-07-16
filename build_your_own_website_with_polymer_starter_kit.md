@@ -26,8 +26,8 @@ app/index.hmtl line 104
 
 ## Add a Section
 ### Icons
-You an find all the **Polymer Iron Icons** here:
-https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html
+You an find all the **[Polymer Iron Icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html)**:
+
 
 ## Change the Theme
 https://www.materialpalette.com/
