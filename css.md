@@ -156,7 +156,7 @@ You can select by **class** by adding a **.** followed by the class name and add
 
 You can select by **id** by adding a **#** followed by the **id** name and adding the *id* to the tag.  Each element with an **id** must have a unique **id**.
 ```css
-#mycolor{
+#myothercolor{
     color:lime;
 }
 ```
