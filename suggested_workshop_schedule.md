@@ -2,6 +2,8 @@
 
 Below is a suggested schedule for running a 2 hour workshop that starts at 3.
 
+| Time | Topic |
+| -- | -- |
 | 3:00 | Introduction |
 | 3:10 | HTML |
 | 3:20 | CSS |
