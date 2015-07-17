@@ -143,11 +143,13 @@ h1{
 
 
 You can select by **class** by adding a **.** followed by the class name and adding the **class** to the tag.  Many elements on a page can have the same class.
-```html
+```css
 .mycolor{
     color:lime;
 }
-    
+```
+
+```html
 <div class="mycolor">using class css selector</div>
 ```
 
@@ -157,8 +159,8 @@ You can select by **id** by adding a **#** followed by the **id** name and addin
 .mycolor{
     color:lime;
 }
-    
-
+```
+```html
 <div id="myothercolor">using id css selector</div>  
 ```
 ---
