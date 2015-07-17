@@ -79,7 +79,7 @@ The ```<span>``` tag is used to group inline-elements in a document.
 ```
 
 The ```<div>``` tag is also used to group inline-elements in a document.
-```
+```html
 <div style="color:#00ff00">this is a div </div>
 ```
 
@@ -88,7 +88,8 @@ The ```<div>``` tag is also used to group inline-elements in a document.
 The button tag defines a clickable button.
 Inside a button element you can put text or images. 
 
-```<button type="button" onclick="alert('you just clicked a button')">Click Me!</button>```
+```html
+<button type="button" onclick="alert('you just clicked a button')">Click Me!</button>```
 
 
 The table tag defines an HTML table.
