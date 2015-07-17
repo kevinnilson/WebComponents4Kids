@@ -3,7 +3,7 @@
 
 [developers.google.com/web/tools/polymer-starter-kit/index](https://developers.google.com/web/tools/polymer-starter-kit/index)
 
-The Polymer Starter Kit makes it easy to build a response website that follows material design.
+The **Polymer Starter Kit** makes it easy to build a **responsive** website that follows **material design**.
 
 
 ## Responsive Web Design
