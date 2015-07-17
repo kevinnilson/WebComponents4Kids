@@ -3,14 +3,16 @@
 ## Change the Title
 app/index.hmtl line 19
 
-```<title>Web Components 4 Kids Project</title>```
+```html
+<title>Web Components 4 Kids Project</title>```
 
 [see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/baf72b4299ce2d5983f0b95f25cf83b2d32fa4e8)
 
 ## Change the App Name
 app/index.hmtl line 104
 
-```<div class="app-name">Web Components 4 Kids Project</div>```
+```html
+<div class="app-name">Web Components 4 Kids Project</div>```
 
 [see it on github](https://github.com/kevinnilson/polymer-starter-kit/commit/90a4a3ea98c1fe3172a7f6ec3d110d8b0944b98d)
 
@@ -46,7 +48,7 @@ app/index.html line 133
 ```
 
 app/elements/routing.html line 22
-```html
+```javascript
 page('/devoxx4kids', function () {
   app.route = 'devoxx4kids';
 });
