@@ -15,22 +15,26 @@
 ```html
 <!-- this is how you define a template -->
 <template id="tpl">
-<p>Use templates to hold HTML you would like to use again.  I will add some websites I like to this template.</p>
+  <p>
+    Use templates to hold HTML you would like to use again.  
+    I will add some websites I like to this template.
+  </p>
 
-<ul>
-  <li>polymer-project.org</li>
-  <li>JavaClimber.com</li>
-  <li>AndyNilson.com</li>
-  <li>meetup.com/Devoxx4Kids-BayArea</li>
-  <li>devoxx4kids.org</li>
-</ul>
+  <ul>
+    <li>webcomponents.org</li>
+    <li>polymer-project.org</li>
+    <li>JavaClimber.com</li>
+    <li>AndyNilson.com</li>
+    <li>meetup.com/Devoxx4Kids-BayArea</li>
+    <li>devoxx4kids.org</li>
+  </ul>
 </template>
 
 <!-- this is how you can use a template -->
 <script>
-var tpl = document.querySelector('#tpl');
-var clone = document.importNode(tpl.content, true);
-document.body.appendChild(clone);
+  var tpl = document.querySelector('#tpl');
+  var clone = document.importNode(tpl.content, true);
+  document.body.appendChild(clone);
 </script>
 ```
 
