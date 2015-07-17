@@ -48,9 +48,9 @@
 <button>Click Me</button>
 
 <script>
-var host = document.querySelector('button');
-var root = host.createShadowRoot();
-root.innerHTML = 'DO NOT <content></content>!!!';
+  var host = document.querySelector('button');
+  var root = host.createShadowRoot();
+  root.innerHTML = 'DO NOT <content></content>!!!';
 </script>```
 
 [try on plunker](http://plnkr.co/edit/nRcMWfo28ZrsSvlbsTbp?p=preview)
