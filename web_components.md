@@ -63,7 +63,7 @@ Custom Elements = Templates + Shadow DOM.
 Without custom elements **HTML** typically looks like div soup:
 ![Div Soup](images/div-soup-resized.jpg)
 
-```
+```html
 <div>
   <div></div>
   <div>
@@ -82,7 +82,7 @@ Without custom elements **HTML** typically looks like div soup:
 ```
 
 With custom elements your **HTML** can look much more readable like:
-```
+```html
 <school-class>
   <class-grade></class-grade>
   <class-teacher>
