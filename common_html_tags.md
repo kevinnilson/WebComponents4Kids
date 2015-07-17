@@ -51,9 +51,9 @@ The ```<h1> ```to ```<h6>``` tags are for headings.
 <h1>this is a heading</h1>
 ```
 
-* h1 is the biggest heading
-* h2 is a smaller heading
-* h6 is a smallest heading
+* **h1** is the biggest heading
+* **h2** is a smaller heading
+* **h6** is a smallest heading
 
 
 The ```<a>``` tag defines a hyperlink, which is used to link from one page to another.
