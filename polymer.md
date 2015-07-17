@@ -102,7 +102,7 @@ Use the **Web Component**:
 [try on plunker](http://plnkr.co/edit/cgXR1Q55rR6pMyLxI1X7?p=preview)
 
 ##Google Web Components
-https://elements.polymer-project.org/browse?package=google-web-components
+[elements.polymer-project.org/browse?package=google-web-components](https://elements.polymer-project.org/browse?package=google-web-components)
 
 A collection of web components for Google APIs & services. Built with Polymer.
 
