@@ -1,6 +1,8 @@
 # Web Components 4 Kids Workshop
 
-
+![Web Components Logo](images/webcomponentslogo.png)
+![Polymer Logo](images/polymerlogo.png)
+![Devoxx4Kids Logo](images/devoxx4kidslogo.png)
 
 This workshop is designed to teach you some of the basics of **web components**.  You will get a quick intro to the web, web components and Polymer.  Then you will build your own web component with  **Polymer**.  Finally you will begin building your own website that looks great on desktop and mobile browsers.
 
@@ -8,9 +10,7 @@ This workshop is designed to teach you some of the basics of **web components**.
 
 ![Web Components 4 Kids Cover](images/cover_small.jpg)
 
-![Web Components Logo](images/webcomponentslogo.png)
-![Polymer Logo](images/polymerlogo.png)
-![Devoxx4Kids Logo](images/devoxx4kidslogo.png)
+
 
 
 
