@@ -41,7 +41,7 @@ There are 3 ways to add styles
 
 
 ### External Style Sheet
-External style allow you to put your styles in there own files for ease of maintainability.
+External style allow you to put your styles in there own files for maintainability.
 
 ```html 
 <link rel="stylesheet" href="mystyle.css">
