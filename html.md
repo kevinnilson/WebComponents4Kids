@@ -37,7 +37,7 @@ HTML elements can have one or more attribute.  Each attribute has a value.
 ```html
 <element attribute="value"/>```
 
-The **img** element is how you add images to a webpage.  The **img** tag has a **src** attribute that specifies the image to display.  The image tag also has a width and height attribute.
+The **img** element is how you add images to a webpage.  The **img** tag has a **src** attribute that specifies the image to display.  The image tag also has a **width** and **height** attribute.
 
 ```html
 <img src="http://webcomponents.org/img/logo.svg" width="104" height="142">```
