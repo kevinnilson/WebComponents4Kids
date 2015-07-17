@@ -91,7 +91,7 @@ You can limit what is styled with **CSS** selectors.  **CSS** selectors are used
 * attribute
 * ...
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
