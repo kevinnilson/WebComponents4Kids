@@ -133,7 +133,7 @@ You can limit what is styled with **CSS** selectors.  **CSS** selectors are used
 
 
 
-you can select by type by adding a tag
+You can select by type by adding a tag.
 ```css
 h1{
   color:red;
