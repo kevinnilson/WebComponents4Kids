@@ -67,7 +67,6 @@ The ```<a>``` tag defines a hyperlink, which is used to link from one page to an
 * The target attribute specifies where to open the linked document
 * a linked page is displayed in the current browser window if you do now specify a target
 * _blank is a special target name that means always in a new window
-* 
 
 
 Use ```<br/>``` to add a line brake.
