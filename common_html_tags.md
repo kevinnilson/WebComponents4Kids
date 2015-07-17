@@ -1,6 +1,6 @@
 # Common HTML Tags
 
-
+There are many tags in **HTML** that you can use to make your website.  In the below example you can see several tags.
 
 ```html
 <h1>Learning HTML</h1>
@@ -45,7 +45,6 @@ Link to: <a href="http://www.andynilson.com/" target="_blank">AndyNilson.com</a>
 ```
 [try on plunker](http://plnkr.co/edit/bqRFSPf9ZDuA9Ddu30fw?p=preview)
 
-There are many tags in **HTML** you can use to make your website.  In the above example you can see several tags.
 
 The ```<h1> ```to ```<h6>``` tags are for headings.  
 ```html
