@@ -123,7 +123,8 @@ The ```<tr>``` element defines a table row, the ```<th>``` element defines a tab
 
 
 The image tag defines an image in an HTML page.
-```<img src="https://avatars2.githubusercontent.com/u/7111340?v=3&s=400">
+```html
+<img src="https://avatars2.githubusercontent.com/u/7111340?v=3&s=400">
 ```
 
 
