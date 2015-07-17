@@ -143,7 +143,7 @@ h1{
 
 
 You can select by **class** by adding a **.** followed by the class name and adding the **class** to the tag.  Many elements on a page can have the same class.
-```
+```html
 .mycolor{
     color:lime;
 }
@@ -153,7 +153,7 @@ You can select by **class** by adding a **.** followed by the class name and add
 
 
 You can select by **id** by adding a **#** followed by the **id** name and adding the *id* to the tag.  Each element with an **id** must have a unique **id**.
-```
+```html
 .mycolor{
     color:lime;
 }
