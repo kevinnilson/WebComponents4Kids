@@ -48,7 +48,7 @@ Link to: <a href="http://www.andynilson.com/" target="_blank">AndyNilson.com</a>
 There are many tags in **HTML** you can use to make your website.  In the above example you can see several tags.
 
 The ```<h1> ```to ```<h6>``` tags are for headings.  
-```
+```html
 <h1>this is a heading</h1>
 ```
 
@@ -58,7 +58,7 @@ The ```<h1> ```to ```<h6>``` tags are for headings.
 
 
 The ```<a>``` tag defines a hyperlink, which is used to link from one page to another.
-```
+```html
 <a href="http://www.andynilson.com/" target="_blank">this is a link to my webpage.</a>
 ```
 
