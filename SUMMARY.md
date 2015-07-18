@@ -14,5 +14,5 @@
 * [Resources](resources.md)
    * [Installation Guide](installation_guide.md)
    * [Suggested Workshop Schedule](suggested_workshop_schedule.md)
-   * Notes For OSCON Workshop
+   * [Notes For OSCON Workshop](notes_for_oscon_workshop.md)
 
