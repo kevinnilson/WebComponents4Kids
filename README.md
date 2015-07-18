@@ -8,13 +8,6 @@ This workshop is designed to teach you some of the basics of **web components**.
 
 *In this workshop kids will even get a chance to learn new and future things about the web that their parents probably don't know.*
 
-![Web Components 4 Kids Cover](images/cover_small.jpg)
-
-
-
-
-
-
 
 ### This workshop will be ran at:
 * [OSCON Kids Day](http://www.oscon.com/open-source-2015/public/schedule/detail/43598)
