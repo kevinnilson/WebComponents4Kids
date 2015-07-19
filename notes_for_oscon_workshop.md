@@ -30,3 +30,6 @@ Start the web server by typing the below commands in Command Prompt
 cd C:\polymer-starter-kit-light-1.0.2
 c:\Python34\python.exe -m http.server 8000
 ```
+
+Click Allow Access
+
