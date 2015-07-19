@@ -1,6 +1,6 @@
 # OSCON - Notes For Workshop
 
-bity.ly/webcomponents4kids
+[bity.ly/webcomponents4kids](http://bity.ly/webcomponents4kids)
 
 Room #4 - E142
 
