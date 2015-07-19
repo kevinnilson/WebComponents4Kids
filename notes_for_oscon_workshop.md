@@ -31,8 +31,9 @@ cd C:\polymer-starter-kit-light-1.0.2
 c:\Python34\python.exe -m http.server 8000
 ```
 
-4. Click Allow Access
-5. Launch Chrome
+1. Click Allow Access
+1. Launch Chrome
+1. http://localhost:8000
 
 ![Chrome](http://x-rayonwheels.com/21/google-chrome-logo-vector-11.jpg)
 
