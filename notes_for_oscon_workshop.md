@@ -9,7 +9,12 @@ Room #4 - E142
 ###Luanch Chrome Dev Editor
 1. Click Windows Button
 1. Click Search
-1. Type "Chrome Dev Editor"
+1. Type "Chrome Dev Editor (developer preview)"
+
+![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
+
+
+*Be sure to click the Chrome Dev Editor and not Chrome*
 
 ### Starting Python Web Server
 Launch the command prompt
