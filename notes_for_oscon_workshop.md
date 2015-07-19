@@ -1,5 +1,7 @@
 # OSCON - Notes For Workshop
 
+bity.ly/webcomponents4kids
+
 Room #4 - E142
 
 3:00pm – 5:00pm
