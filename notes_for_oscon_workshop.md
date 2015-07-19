@@ -33,7 +33,7 @@ c:\Python34\python.exe -m http.server 8000
 
 1. Click Allow Access
 1. Launch Chrome
-1. [http://localhost:8000](http://localhost:8000)
+1. In Chrome go to [http://localhost:8000](http://localhost:8000)
 
 ![Chrome](http://x-rayonwheels.com/21/google-chrome-logo-vector-11.jpg)
 
