@@ -13,6 +13,6 @@
 * [Build Your Own Website with Polymer Starter Kit](build_your_own_website_with_polymer_starter_kit.md)
 * [Resources](resources.md)
    * [Installation Guide](installation_guide.md)
-   * [Suggested Workshop Schedule](suggested_workshop_schedule.md)
+   * [2 Hour - Suggested Workshop Schedule](suggested_workshop_schedule.md)
    * [Notes For OSCON Workshop](notes_for_oscon_workshop.md)
 
