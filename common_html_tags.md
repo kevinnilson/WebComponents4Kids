@@ -76,7 +76,7 @@ The ```<span>``` tag is used to group inline-elements in a document.
 <span>this is a span</span>
 ```
 
-The ```<div>``` tag is also used to group inline-elements in a document.
+The ```<div>``` tag is a block elements in a document.
 ```html
 <div style="color:#00ff00">this is a div </div>
 ```
