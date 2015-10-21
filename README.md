@@ -21,7 +21,7 @@ This workshop is designed to teach you some of the basics of **web components**.
 
 
 
-###  This workshop has been prepared by:
+###  This workshop has been created by:
 **Kevin Nilson** 
 [@javaclimber](https://twitter.com/javaclimber)  [JavaClimber.com](http://www.javaclimber.com)
 [LinkedIn](https://www.linkedin.com/in/kevinnilson)
