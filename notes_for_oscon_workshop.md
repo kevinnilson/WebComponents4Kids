@@ -2,9 +2,6 @@
 
 [bity.ly/webcomponents4kids](http://bity.ly/webcomponents4kids)
 
-Room #4 - E142
-
-3:00pm – 5:00pm
 
 
 ## Building Your own Website Instructions
@@ -15,6 +12,8 @@ Room #4 - E142
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
+1. Press "Start" and type command
+2. cd C:\Users\Lab\Desktop
 
 *Be sure to click the Chrome Dev Editor and not Chrome*
 
