@@ -24,7 +24,7 @@
 Start the web server by typing the below commands in Command Prompt
 
 ```
-c:\Python34\python.exe -m http.server 8chr000
+c:\Python34\python.exe -m http.server 8000
 ```
 
 1. Click Allow Access
