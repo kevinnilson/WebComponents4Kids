@@ -12,8 +12,8 @@
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
-1. Press "Start" and type command
-2. cd C:\Users\Lab\Desktop
+1. Press "Start" and type 'cmd'
+2. cd C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
 
 *Be sure to click the Chrome Dev Editor and not Chrome*
 
