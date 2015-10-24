@@ -12,16 +12,12 @@
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
+### Starting Python Web Server
+
 1. Press "Start" and type 'cmd'
 2. cd C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
 
 *Be sure to click the Chrome Dev Editor and not Chrome*
-
-### Starting Python Web Server
-Launch the command prompt
-1. Click Windows Button
-1. Click Search
-1. Type "cmd"
 
 Start the web server by typing the below commands in Command Prompt
 
