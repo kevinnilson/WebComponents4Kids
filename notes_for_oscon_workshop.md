@@ -12,6 +12,8 @@
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
+1. open folder C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
+
 ### Starting Python Web Server
 
 1. Press "Start" and type 'cmd'
@@ -22,8 +24,7 @@
 Start the web server by typing the below commands in Command Prompt
 
 ```
-cd C:\polymer-starter-kit-light-1.0.2\app
-c:\Python34\python.exe -m http.server 8000
+c:\Python34\python.exe -m http.server 8chr000
 ```
 
 1. Click Allow Access
