@@ -19,7 +19,7 @@
 1. Press "Start" and type 'cmd'
 2. cd C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
 
-*Be sure to click the Chrome Dev Editor and not Chrome*
+
 
 Start the web server by typing the below commands in Command Prompt
 
