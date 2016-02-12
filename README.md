@@ -33,9 +33,3 @@ This workshop is designed to teach you some of the basics of **web components**.
 [AndyNilson.com](http://www.andynilson.com)
 [G+](https://google.com/+AndyNilson123)
 
-
-
-<!-- 
-TODO
-Add Cover http://help.gitbook.com/format/cover.html
--->
