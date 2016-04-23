@@ -110,7 +110,7 @@ You can limit what is styled with **CSS** selectors.  **CSS** selectors are used
         color:lime;
       }
       
-      /* The tag with the id myothercolor are lime */
+      /* The tag with the id myothercolor are brown */
       #myothercolor{
         color:brown;
       }
