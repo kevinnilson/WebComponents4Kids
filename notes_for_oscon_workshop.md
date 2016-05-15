@@ -9,6 +9,7 @@
 1. Click Windows Button
 1. Type "Chrome Dev Editor"
 1. Click Chrome Dev Editor 
+1. Click index.html to show file in editor
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
