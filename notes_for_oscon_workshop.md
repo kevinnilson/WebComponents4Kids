@@ -18,7 +18,8 @@
 ### Starting Python Web Server
 
 1. Press "Start" and type 'cmd'
-2. cd C:\polymer-starter-kit-light-1.0.2\app
+1. click "Command Prompt"
+1. cd C:\polymer-starter-kit-light-1.0.2\app
 
 
 
