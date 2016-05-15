@@ -7,24 +7,24 @@
 ## Building Your own Website Instructions
 ###Luanch Chrome Dev Editor
 1. Click Windows Button
-1. Click Search
-1. Type "Chrome Dev Editor (developer preview)"
+1. Type "Chrome Dev Editor"
+1. Click Chrome Dev Editor 
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
 
-1. open folder C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
+<!-- 1. open folder C:\polymer-starter-kit-light-1.0.2\app -->
 
 ### Starting Python Web Server
 
 1. Press "Start" and type 'cmd'
-2. cd C:\Users\Lab\Desktop\polymer-starter-kit-light-1.0.2\app
+2. cd C:\polymer-starter-kit-light-1.0.2\app
 
 
 
 Start the web server by typing the below commands in Command Prompt
 
 ```
-c:\Python34\python.exe -m http.server 8000
+python.exe -m http.server 8000
 ```
 
 1. Click Allow Access
