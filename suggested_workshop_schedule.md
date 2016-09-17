@@ -1,7 +1,7 @@
 # 2 Hour - Suggested Workshop Schedule
 
 Below is a suggested schedule for running a 2 hour workshop that starts at 3.
-
+<!--
 | Time | Topic |
 | -- | -- |
 | 1:00| Introduction |
@@ -15,8 +15,8 @@ Below is a suggested schedule for running a 2 hour workshop that starts at 3.
 | 2:20| Build Your Own Website with Polymer Starter Kit |
 | 2:55| Closing |
 |3:00| Finished |
+-->
 
-<!--
 | Time | Topic |
 | -- | -- |
 | 9:45 | Introduction |
@@ -30,7 +30,6 @@ Below is a suggested schedule for running a 2 hour workshop that starts at 3.
 | 11:05| Build Your Own Website with Polymer Starter Kit |
 | 11:40| Closing |
 | 11:45| Finished |
--->
 
 
 
