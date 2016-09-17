@@ -7,18 +7,13 @@
 ## Building Your own Website Instructions
 
 ###Download Polymer Starter Kit
-* In Chrome Download the Polymer Starter Kit Lite 1.0.2
+1. In Chrome Download the Polymer Starter Kit Lite 1.0.2
 https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/polymer-starter-kit-light-1.0.2.zip
-
-* Unzip polymer-starter-kit-light-1.0.2.zip
-
-Click "Windows + e" to launch Windows explorer
-
-click Downloads at top left
-
-right click polyer-starter-kit-light-1.0.2.zip  and select Extract All...
-
-Click Extract
+1. Unzip polymer-starter-kit-light-1.0.2.zip
+1. Click "Windows + e" to launch Windows explorer
+1. click Downloads at top left
+1. right click polyer-starter-kit-light-1.0.2.zip  and select Extract All...
+1. Click Extract
 
 
 
