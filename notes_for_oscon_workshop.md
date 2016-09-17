@@ -34,7 +34,7 @@ https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/
 
 1. Press "Start" and type 'cmd'
 1. click "Command Prompt"
-1. cd C:\polymer-starter-kit-light-1.0.2\app
+1. cd C:\Users\Lab\Downloads\polymer-starter-kit-light-1.0.2\app
 
 
 
@@ -44,7 +44,7 @@ Start the web server by typing the below commands in Command Prompt
 python.exe -m http.server 8000
 ```
 
-1. Click Allow Access
+1. Click Allow Access (if asked)
 1. Launch Chrome
 1. In Chrome go to [http://localhost:8000](http://localhost:8000)
 
