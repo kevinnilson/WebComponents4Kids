@@ -1,10 +1,18 @@
-# OSCON - Notes For Workshop
+# JavaOne - Notes For Workshop
 
 [bity.ly/webcomponents4kids](http://bity.ly/webcomponents4kids)
 
 
 
 ## Building Your own Website Instructions
+
+###Download Polymer Starter Kit
+* In Chrome Download the Polymer Starter Kit Lite 1.0.2
+https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/polymer-starter-kit-light-1.0.2.zip
+
+* Unzip polymer-starter-kit-light-1.0.2.zip
+
+
 ###Luanch Chrome Dev Editor
 1. Click Windows Button
 1. Type "Chrome Dev Editor"
