@@ -12,11 +12,23 @@ https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.0.2/
 
 * Unzip polymer-starter-kit-light-1.0.2.zip
 
+Click "Windows + e" to launch Windows explorer
 
-###Luanch Chrome Dev Editor
+click Downloads at top left
+
+right click polyer-starter-kit-light-1.0.2.zip  and select Extract All...
+
+Click Extract
+
+
+
+###Launch Chrome Dev Editor
 1. Click Windows Button
 1. Type "Chrome Dev Editor"
 1. Click Chrome Dev Editor 
+1. Click the hamburger button (button with 3 lines on top left)
+1. Click open folder and select 
+ Lab\Downloads\polymer-starter-kit-light-1.0.2\app
 1. Click index.html to show file in editor
 
 ![Chrome Dev Editor](https://raw.githubusercontent.com/dart-lang/chromedeveditor/master/ide/web/images/icon_128.png)
